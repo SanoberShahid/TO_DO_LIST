@@ -1,0 +1,23 @@
+{
+  "name": "to_do_list_sanober",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^9.2.20",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
